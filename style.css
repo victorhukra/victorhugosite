@@ -1,0 +1,94 @@
+*{
+    margin: 0
+}
+*{
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+    width: 100%;
+    background-color:#BE05FF
+ }
+    .cabecalho{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+    }
+
+    .gamer-img{
+        width: 10%;
+        display: flex;
+    }
+    
+    .cabecalho-item-lista{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 24px;
+    }
+
+    .site-imagem2 {
+        width: 15%;
+    }
+
+    .site {
+        background-image:  linear-gradient(#BE05FF, #4EBFE9);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 48px 0;
+    }
+
+    .site-div-conteudo {
+        width: 35%;
+    }
+
+    .site-titulo {
+        padding: 48px 0;
+    }
+
+    .jogo1 {
+        width: 200px;
+    }
+
+    .jogo-titulo {
+    text-align: center;
+    padding: 55px 0;
+    background-color: #4EBFE9;
+    }
+
+    .gametodos {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20%;
+        background-color: #4EBFE9;
+    }
+
+
+    .jogo2 {
+        width: 200px;
+    }
+
+    .jogo3 {
+        width: 200px;
+    }
+
+    .jogo4 {
+        width: 200px;
+    }
+
+    .jogo5 {
+        width: 200px;
+    }
+
+    .jogo6{
+        width: 200px;
+    }
+
+    .jogos-momento {
+        text-align: center;
+    }
+
